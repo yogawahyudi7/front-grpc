@@ -1,0 +1,1 @@
+ protoc --grpc-web_out=import_style=commonjs,mode=grpcwebtext:. proto/example.proto
